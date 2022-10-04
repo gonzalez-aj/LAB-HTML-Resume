@@ -1,3 +1,35 @@
 body {
-  background-color: honeydew;
+  background-color:rgb(200, 241, 200);
+}
+
+#jobfour {
+  font-family: 'Times New Roman', Times, serif;
+  border: 4px solid black;
+  padding: 15px;
+  margin: 10px; 
+}
+
+#jobthree {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 3px double darkcyan;
+  padding: 15px;
+  margin: 10px; 
+}
+
+#jobtwo{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border: 2px dashed darkolivegreen;
+  padding: 15px;
+  margin: 10px; 
+}
+
+#jobone{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border: 1px dotted darkblue;
+  padding: 15px;
+  margin: 10px; 
+}
+
+h2 {
+  color: rgb(71, 2, 2);
 }
