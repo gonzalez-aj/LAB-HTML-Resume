@@ -1,9 +1,14 @@
-# Angie's HTML Resume[![Netlify Status](https://api.netlify.com/api/v1/badges/4f4392af-ebcd-4718-b6cd-f2b4f454a94c/deploy-status)](https://app.netlify.com/sites/gonzalez-resume/deploys)
+# A.J.'s HTML Resume [![Netlify Status](https://api.netlify.com/api/v1/badges/4f4392af-ebcd-4718-b6cd-f2b4f454a94c/deploy-status)](https://app.netlify.com/sites/gonzalez-resume/deploys)
 
 [View the app here](https://gonzalez-resume.netlify.app/)
 
+## Resume
+- this resume is a study in HTML
+- exercise in formatting and fonts
+
+
 ## Get Started
-- [Clone](https://nss-evening-curriculum.netlify.app/client/08-clone-github-repos) this repo into `~/workspace/foundations/inclass/`
+- [Created with NSS repo](https://nss-evening-curriculum.netlify.app/client/08-clone-github-repos) this repo into `~/workspace/foundations/inclass/`
 - Make setup branch with `index.html, main.css, main.js` files
 - Change background color of `index.html` 
 - Add a console log in `main.js`
